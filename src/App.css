@@ -1,0 +1,38 @@
+body{
+  overflow-x: hidden;
+}
+
+.navbar-brand img{
+  width: auto;
+  height: 70px;
+}
+
+.nav-item .nav-link{
+  color: #FFF;
+  font-size: 1rem;
+}
+
+.nav-item .nav-link:hover{
+  color: #ffc107;
+  font-size: 1rem;
+}
+
+.quantidadeODA{
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.card{
+  width: 40rem;
+}
+
+.lista{
+  justify-content: center;
+  gap: 30px;
+}
+
+.copyright{
+  background-color: rgba(0, 0, 0, 0.3)
+}
